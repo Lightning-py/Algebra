@@ -1,0 +1,6 @@
+set v1 1 2 3
+set v2 4 5 6
+dot v1 v2 v3
+set path "path/to/file"
+out v3 path
+out v3 term
